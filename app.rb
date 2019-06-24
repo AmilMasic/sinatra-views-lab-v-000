@@ -8,6 +8,6 @@ class App < Sinatra::Base
 		erb :hello
 	end
 
-	
+	vi
 
 end
